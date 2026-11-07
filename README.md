@@ -1,2 +1,5 @@
-# dse-math-rescue-support
-DSE 數學急救站：私隱政策、購買條款及使用支援。
+# DSE 數學急救站：支援與政策
+
+此儲存庫只包含公開靜態文件，不包含 App 程式碼、題庫、學習紀錄或任何私鑰。
+
+GitHub Pages：main 分支，根目錄。
