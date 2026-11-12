@@ -1,5 +1,6 @@
 # DSE 數學急救站：支援與政策
 
-此儲存庫只包含公開靜態文件，不包含 App 程式碼、題庫、學習紀錄或任何私鑰。
+公開靜態網站；沒有題庫、學習紀錄、登入服務、私鑰、追蹤像素或第三方前端請求。
 
+來源：主 App 專案的 scripts/support 及 scripts/build-support-site-v2.mjs。
 GitHub Pages：main 分支，根目錄。
